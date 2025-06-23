@@ -1,0 +1,6 @@
+google-credentials.json
+config.json
+__pycache__/
+*.pyc
+job_results.csv
+.env

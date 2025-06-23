@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "email_user": "your.email@example.com",
+  "email_pass": "your-email-password",
+  "google_sheet_name": "Job Tracker Yogi"
+}
